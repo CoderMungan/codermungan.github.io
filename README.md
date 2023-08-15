@@ -1,2 +1,3 @@
 # codermungan.github.io
-Projelerimi Live'a Almak İçin
+
+Portfolio React ile oluşturulmuştur.
